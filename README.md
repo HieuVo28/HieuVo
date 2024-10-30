@@ -1,5 +1,7 @@
 # 💫 About Me:
-- ⌚ Working 24/7<br> - 🍔 Love Noodle <br> - 💖 Like Coding
+- ⌚ Working 24/7
+- 🍔 Love Noodle
+- 💖 Like Coding
 
 
 ## 🌐 Socials:
